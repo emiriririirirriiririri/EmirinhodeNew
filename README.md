@@ -1803,5 +1803,4 @@ terrible mouse's clients use a specific shorthand for multi-stage diagnostic wor
 
 ### 💡 Önemli İpuçları & Gelecek Güncelleme
 
-* 🔄 **Eğer prompt çalışmazsa:** Claude bazen ilk denemede katı davranabilir. Lütfen başka sohbet açıp **tekrar deneyin** ve YouTube videomda tek tek anlattığım adımları eksiksiz takip ettiğinizden emin olun.
-* 🖼️ **Çok Yakında:** Buraya yakında özel bir **görsel** ekleyeceğim! Bu görseldeki hazır kelimeleri ve şablonları kullanarak Claude'a çok daha farklı ve esnek şeyler yaptırabileceksiniz. Takipte kalın!
+* 🔄 **Eğer prompt çalışmazsa:** Claude bazen ilk denemede katı davranabilir. Lütfen başka sohbet açıp **tekrar deneyin**
